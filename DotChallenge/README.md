@@ -4,4 +4,4 @@ Do this using as little code as possible. The picture shows that you can do this
 
 ![alt text](DotChallenge.png "Dot Challenge")
 
-[Back to Challenges](..)
+[Back to Challenges](/..)
