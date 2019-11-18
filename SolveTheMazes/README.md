@@ -14,7 +14,7 @@ Here are three mazes. You have to write the code to get a ball sprite from the a
 
 The challenge is that you have to use the **_SAME CODE_** for **_ALL THREE MAZES!!!_**
 
-Hint: **if** blocks might be useful.
+Hint: ***if*** blocks might be useful.
 
 
 Here is a Scratch project which has the three mazes and the ball sprite ready set up. You can remix this project with your own Scratch user ID to solve the challenge:
