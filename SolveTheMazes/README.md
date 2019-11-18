@@ -23,6 +23,6 @@ Here is a Scratch project which has the three mazes and the ball sprite ready se
 
 As you can see from this image it is possible to solve all three mazes with quite a short programme:
 
-![alt text](Solve the mazes.png "Blurred code")
+![alt text](SolveTheMazes.png "Blurred code")
 
 [Back to Challenges](../README.md)
