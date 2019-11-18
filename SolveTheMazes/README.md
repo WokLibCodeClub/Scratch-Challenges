@@ -17,7 +17,7 @@ The challenge is that you have to use the **_SAME CODE_** for **_ALL THREE MAZES
 
 Here is a Scratch project which has the three mazes and the sprite ready set up. You can remix this project with your own Scratch user ID to solve the challenge:
 
-[Scratch: maze challenge project](https://scratch.mit.edu/projects/345951410/)
+[Scratch: maze challenge project](https://scratch.mit.edu/projects/345951410/ "Scratch Project" target="_blank")
 
 As you can see it is possible to solve all three mazes with quite a short programme:
 
