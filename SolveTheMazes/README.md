@@ -15,7 +15,7 @@ Here are three mazes. You have to write the code to get a ball sprite from the a
 The challenge is that you have to use the **_SAME CODE_** for **_ALL THREE MAZES!!!_**
 
 
-Here is a Scratch project which has the three mazes and the sprite ready set up:
+Here is a Scratch project which has the three mazes and the sprite ready set up. You can remix this project with your own Scratch user ID to solve the challenge:
 
 [Scratch: maze challenge project](https://scratch.mit.edu/projects/345951410/)
 
