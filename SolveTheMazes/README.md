@@ -1,8 +1,8 @@
 Here are three mazes. You have to write the code to get a ball sprite through the mazes to get to the yellow square. 
 
-##Maze no 1:
+## Maze no 1:
 
-	![alt text](course1.png "Maze #1")
+![alt text](course1.png "Maze #1")
 
 Maze no 2:
 
