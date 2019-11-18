@@ -21,8 +21,8 @@ Here is a Scratch project which has the three mazes and the ball sprite ready se
 
 [Scratch: maze challenge project](https://scratch.mit.edu/projects/345951410/) (Open this in a new tab)
 
-As you can see it is possible to solve all three mazes with quite a short programme:
+As you can see from this image it is possible to solve all three mazes with quite a short programme:
 
-![alt text](Solve the mazes.png "Code to solve mazes")
+![alt text](Solve the mazes.png "Blurred code")
 
 [Back to Challenges](../README.md)
