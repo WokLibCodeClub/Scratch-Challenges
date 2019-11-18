@@ -1,4 +1,4 @@
-Here are three mazes. You have to write the code to get a ball sprite from the arrow through the mazes to get to the yellow square. 
+Here are three mazes. You have to write the code to get a ball sprite from the arrow through the mazes to the yellow square. 
 
 ### Maze no 1:
 
